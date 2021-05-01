@@ -8,16 +8,7 @@ TAI will be the first Arabic food-sharing website. TAI connects people and allow
 
 - [@AbdallahAlhajeid](https://github.com/Abdallah-Alhajeid)
 
-  
-![Logo](![android-chrome-512x512](https://user-images.githubusercontent.com/39887091/116790315-223e1680-aabc-11eb-9984-28374cf7b82e.png)
-)
 
-    
-## Screenshots
-
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-
-  
 ## Tech Stack
 
 **Client:** HTML, CSS, SASS,JS,BOOTSTRAP
