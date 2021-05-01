@@ -16,9 +16,9 @@ TAI will be the first Arabic food-sharing website. TAI connects people and allow
 **Server:** PHP, LARAVEL, MYSQL, XAMPP
 
   
-## Badges
+## License
 
-Add badges from somewhere like: [shields.io](https://shields.io/)
+ [shields.io](https://shields.io/)
 
 [![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs)
 
