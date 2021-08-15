@@ -2,7 +2,7 @@
 #  TAI
 
 TAI will be the first Arabic food-sharing website. TAI connects people and allows them to share the food excess so the surplus food and other items won’t be a waste and thrown away. Our main goal is to reduce food waste. 
-
+https://www.youtube.com/watch?v=jIbfAxD7mf8&ab_channel=TAI
 
 ## Author
 
